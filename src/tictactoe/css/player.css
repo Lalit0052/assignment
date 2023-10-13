@@ -1,0 +1,25 @@
+.info {
+	width: 30vw;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: whitesmoke;
+}
+
+.player1 .player2 {
+	border: 2px solid #f6546a;
+	border-radius: 5%;
+	padding: .5rem 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10vw;
+}
+.player1{
+    color: blue;
+	font-size: 45px;
+}
+.player2{
+	font-size: 45px;
+    color: red;
+}
